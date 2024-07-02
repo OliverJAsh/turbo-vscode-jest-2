@@ -6,6 +6,6 @@
   },
   "dependencies": {
     "jest": "^29.7.0",
-    "turbo": "^2.0.6"
+    "turbo": "2.0.6-canary.0"
   }
 }
